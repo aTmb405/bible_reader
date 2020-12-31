@@ -1,6 +1,6 @@
 # Bible Reader
 
-This reader is built with [Digital Bible Platform](https://www.digitalbibleplatform.com/)'s API (v2).
+This reader is built with [Digital Bible Platform](https://www.digitalbibleplatform.com/)'s API (v2). This reader is currently in use by GG.
 
 Features - 
 
